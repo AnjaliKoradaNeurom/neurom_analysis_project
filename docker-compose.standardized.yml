@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  web-audit:
+    build:
+      context: .
+      dockerfile: Dockerfile.standardized
+    ports:
+      - "8000:8000"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+      - DEBUG=false
+    volumes:
+      - ./logs:/app/logs
+    restart: unless-stopped
+    
+  # Optional: Redis for caching to further reduce variations
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    restart: unless-stopped

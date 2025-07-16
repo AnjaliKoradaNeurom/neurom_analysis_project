@@ -1,0 +1,402 @@
+2025-07-09 01:30:01,851 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 01:30:01,890 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 01:30:01,890 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 01:30:01,890 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+, falling back to rule-based analysis
+2025-07-09 01:30:01,890 - main - INFO - ✅ All components initialized successfully
+2025-07-09 01:32:00,498 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 01:32:12,320 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 01:32:12,329 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 01:32:12,329 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 01:32:14,203 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=1056 request_id=req_beda6b4ee2d37c2c5378e2feaea23650 response_code=200
+2025-07-09 01:32:14,203 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 01:32:14,203 - main - INFO - ✅ All components initialized successfully
+2025-07-09 01:37:45,408 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 01:44:34,628 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 01:44:34,628 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 01:44:34,628 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 01:44:36,103 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=519 request_id=req_3b643e1e5644f35bdd520b1ffe59df3f response_code=200
+2025-07-09 01:44:36,111 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 01:44:36,119 - main - INFO - ✅ All components initialized successfully
+2025-07-09 13:29:17,876 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 13:29:17,892 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 13:29:17,892 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 13:29:19,726 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=863 request_id=req_0eef4d9f50d422d06afbd9cfe26edfe8 response_code=200
+2025-07-09 13:29:19,726 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 13:29:19,726 - main - INFO - ✅ All components initialized successfully
+2025-07-09 14:23:17,229 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 15:14:23,212 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 15:14:23,252 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 15:14:23,258 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 15:14:23,271 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+, falling back to rule-based analysis
+2025-07-09 15:14:23,271 - main - INFO - ✅ All components initialized successfully
+2025-07-09 15:17:13,504 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 15:18:02,313 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 15:18:02,325 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 15:18:02,325 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 15:18:02,337 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+, falling back to rule-based analysis
+2025-07-09 15:18:02,337 - main - INFO - ✅ All components initialized successfully
+2025-07-09 15:18:12,161 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 15:18:33,279 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 15:18:33,304 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 15:18:33,304 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 15:18:37,175 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=1196 request_id=req_598e37542fe7fccf9a342e7bd1b44677 response_code=200
+2025-07-09 15:18:37,184 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 15:18:37,184 - main - INFO - ✅ All components initialized successfully
+2025-07-09 15:28:47,708 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 15:28:50,741 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 15:28:50,748 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 15:28:50,748 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 15:28:53,164 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=613 request_id=req_11313f8f3f622209c919b6b5316c23dd response_code=200
+2025-07-09 15:28:53,175 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 15:28:53,175 - main - INFO - ✅ All components initialized successfully
+2025-07-09 15:29:01,562 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 15:29:04,061 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 15:29:04,064 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 15:29:04,073 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 15:29:05,715 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=702 request_id=req_49b173bbead7cace98f481d57f84b265 response_code=200
+2025-07-09 15:29:05,724 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 15:29:05,724 - main - INFO - ✅ All components initialized successfully
+2025-07-09 15:29:22,569 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 15:29:24,919 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 15:29:24,939 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 15:29:24,942 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 15:29:27,147 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=1042 request_id=req_fa250af257743e73123a3b793b46ad2d response_code=200
+2025-07-09 15:29:27,152 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 15:29:27,152 - main - INFO - ✅ All components initialized successfully
+2025-07-09 15:31:10,360 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 15:31:14,516 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 15:31:14,521 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 15:31:14,532 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 15:31:17,626 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=1064 request_id=req_b15b88ab498962e146cf2edb069b6745 response_code=200
+2025-07-09 15:31:17,626 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 15:31:17,626 - main - INFO - ✅ All components initialized successfully
+2025-07-09 15:47:42,403 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 15:47:47,271 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 15:47:47,287 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 15:47:47,287 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 15:47:49,683 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=600 request_id=req_a6317d5f7a066b59a46ce7bfda27a259 response_code=200
+2025-07-09 15:47:49,691 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 15:47:49,691 - main - INFO - ✅ All components initialized successfully
+2025-07-09 15:48:14,370 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 15:48:17,204 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 15:48:17,221 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 15:48:17,227 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 15:48:19,222 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=579 request_id=req_7bc409e7d664ed893d32469c0ad45bfe response_code=200
+2025-07-09 15:48:19,228 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 15:48:19,228 - main - INFO - ✅ All components initialized successfully
+2025-07-09 15:48:29,049 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-09 15:48:32,130 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 15:48:32,156 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 15:48:32,158 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 15:48:34,079 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=1114 request_id=req_14d24752e81f5069b747c13f9e14336d response_code=200
+2025-07-09 15:48:34,079 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 15:48:34,079 - main - INFO - ✅ All components initialized successfully
+2025-07-09 20:50:05,301 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-09 20:50:05,318 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-09 20:50:05,321 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-09 20:50:27,308 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=1077 request_id=req_44353e7f87227f911c2f7e500c64c939 response_code=200
+2025-07-09 20:50:27,322 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-09 20:50:27,326 - main - INFO - ✅ All components initialized successfully
+2025-07-11 11:44:54,669 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 11:44:54,706 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 11:44:54,706 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 11:44:57,113 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=1299 request_id=req_360a13c0c6adf5204054a006e1c499b1 response_code=200
+2025-07-11 11:44:57,113 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-11 11:44:57,113 - main - INFO - ✅ All components initialized successfully
+2025-07-11 12:05:02,756 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 12:50:32,743 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 12:50:32,759 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 12:50:32,759 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 12:50:34,516 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=819 request_id=req_cace323b00a4c9a2c3f4e0ce3bd8d2da response_code=200
+2025-07-11 12:50:34,516 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful
+2025-07-11 12:50:34,516 - main - INFO - ✅ All components initialized successfully
+2025-07-11 19:16:40,993 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 19:16:41,037 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 19:16:41,037 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 19:16:41,050 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+, falling back to rule-based analysis
+2025-07-11 19:16:41,050 - main - INFO - ✅ All components initialized successfully
+2025-07-11 19:17:06,542 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 19:17:26,100 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 19:17:26,116 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 19:17:26,116 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 19:17:26,701 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_0502c5dd550ef3ff542be611da072a02 response_code=401
+2025-07-11 19:17:26,701 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: sk-proj-********************************************************************************************************************************************************BqwA. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 19:17:26,704 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: Incorrect API key provided: sk-proj-********************************************************************************************************************************************************BqwA. You can find your API key at https://platform.openai.com/account/api-keys., falling back to rule-based analysis
+2025-07-11 19:17:26,704 - main - INFO - ✅ All components initialized successfully
+2025-07-11 19:19:08,756 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 19:19:13,254 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 19:19:13,254 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 19:19:13,269 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 19:19:13,880 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_22f2bd564c4ad1e694b0d66e35339129 response_code=401
+2025-07-11 19:19:13,896 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: sk-proj-********************************************************************************************************************************************************BqwA. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 19:19:13,896 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: Incorrect API key provided: sk-proj-********************************************************************************************************************************************************BqwA. You can find your API key at https://platform.openai.com/account/api-keys., falling back to rule-based analysis
+2025-07-11 19:19:13,896 - main - INFO - ✅ All components initialized successfully
+2025-07-11 19:19:35,575 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 19:19:38,355 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 19:19:38,375 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 19:19:38,376 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 19:19:38,403 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 19:19:58,361 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 19:19:58,384 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 19:19:58,384 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 19:19:58,396 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+, falling back to rule-based analysis
+2025-07-11 19:19:58,407 - main - INFO - ✅ All components initialized successfully
+2025-07-11 19:20:15,097 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 19:20:27,281 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 19:20:27,281 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 19:20:27,296 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 19:20:28,394 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_5642298b19fe2815574cfe848bad1440 response_code=401
+2025-07-11 19:20:28,394 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: sk-proj-********************************************************************************************************************************************************BqwA. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 19:20:28,394 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: Incorrect API key provided: sk-proj-********************************************************************************************************************************************************BqwA. You can find your API key at https://platform.openai.com/account/api-keys., falling back to rule-based analysis
+2025-07-11 19:20:28,394 - main - INFO - ✅ All components initialized successfully
+2025-07-11 19:48:48,580 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 19:48:59,715 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 19:48:59,728 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 19:48:59,728 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 19:48:59,774 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: Error communicating with OpenAI, falling back to rule-based analysis
+2025-07-11 19:48:59,776 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:18:40,154 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:18:40,164 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:18:40,164 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:18:40,696 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_c41f334890f964015676958e87c3ff67 response_code=401
+2025-07-11 20:18:40,696 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: sk-proj-********************************************************************************************************************************************************BqwA. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 20:18:40,712 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: Incorrect API key provided: sk-proj-********************************************************************************************************************************************************BqwA. You can find your API key at https://platform.openai.com/account/api-keys., falling back to rule-based analysis
+2025-07-11 20:18:40,712 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:18:49,595 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:19:10,489 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:19:10,489 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:19:10,505 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:19:11,382 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_6cbf4ab78feeb5a8e808e3c7ddad0cbc response_code=401
+2025-07-11 20:19:11,382 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: sk-proj-********************************************************************************************************************************************************BqwA. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 20:19:11,386 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: Incorrect API key provided: sk-proj-********************************************************************************************************************************************************BqwA. You can find your API key at https://platform.openai.com/account/api-keys., falling back to rule-based analysis
+2025-07-11 20:19:11,386 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:19:19,411 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:21:10,935 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:21:10,935 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:21:10,935 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:21:11,579 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_d6ddeeaa9ab77f0ef0d02f715b7b5678 response_code=401
+2025-07-11 20:21:11,579 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: sk-proj-*******************************************************************************************************************************************************hPUA. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 20:21:11,595 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: Incorrect API key provided: sk-proj-*******************************************************************************************************************************************************hPUA. You can find your API key at https://platform.openai.com/account/api-keys., falling back to rule-based analysis
+2025-07-11 20:21:11,595 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:23:52,121 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:23:56,384 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:23:56,394 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:23:56,395 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:23:56,396 - core.ai_analyzer - WARNING - ⚠️ OpenAI API key not found, using rule-based analysis
+2025-07-11 20:23:56,396 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:28:29,303 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:28:34,169 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:28:34,169 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:28:34,169 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:28:34,190 - core.ai_analyzer - WARNING - ⚠️ OpenAI API key not found, using rule-based analysis
+2025-07-11 20:28:34,190 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:30:16,899 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:30:21,102 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:30:21,102 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:30:21,102 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:30:21,122 - core.ai_analyzer - WARNING - ⚠️ OpenAI API key not found, using rule-based analysis
+2025-07-11 20:30:21,122 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:31:32,431 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:31:36,983 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:31:36,990 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:31:36,990 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:31:37,002 - core.ai_analyzer - WARNING - ⚠️ OpenAI API key not found, using rule-based analysis
+2025-07-11 20:31:37,002 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:47:05,959 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:47:08,246 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:47:08,262 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:47:08,262 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:47:08,274 - core.ai_analyzer - WARNING - ⚠️ OpenAI API key not found, using rule-based analysis
+2025-07-11 20:47:08,274 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:47:26,416 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:47:28,389 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:47:28,389 - core.ai_analyzer - WARNING - ⚠��� OpenAI API key not found in environment variables
+2025-07-11 20:47:28,389 - core.ai_analyzer - INFO - Available environment variables starting with 'OPENAI': ['OPENAI_API_KEY']
+2025-07-11 20:47:28,389 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:47:28,399 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:47:28,407 - core.ai_analyzer - WARNING - ⚠️ OpenAI API key not found, using rule-based analysis only
+2025-07-11 20:47:28,407 - core.ai_analyzer - INFO - 💡 To enable AI analysis, set OPENAI_API_KEY in your .env file
+2025-07-11 20:47:28,407 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:48:51,514 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:51:33,788 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:51:33,809 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-11 20:51:33,810 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:51:33,810 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:51:35,254 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_56d3cf6992f6676920a92e0bb222af3e response_code=401
+2025-07-11 20:51:35,255 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: sk-proj-********************************************************************************************************************************************************BqwA. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 20:51:35,256 - core.ai_analyzer - ERROR - ❌ OpenAI API authentication failed - check your API key
+2025-07-11 20:51:35,257 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:52:39,442 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:52:42,629 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:52:42,633 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-11 20:52:42,633 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:52:42,633 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:52:44,227 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_ecc8dd7959c79052e52a6c27bc24fa63 response_code=404
+2025-07-11 20:52:44,229 - openai - INFO - error_code=model_not_found error_message='The model `gpt-4` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 20:52:44,229 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: The model `gpt-4` does not exist or you do not have access to it., falling back to rule-based analysis
+2025-07-11 20:52:44,229 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:55:16,526 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:55:18,682 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:55:18,689 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-11 20:55:18,689 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:55:18,689 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:55:19,703 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_365374f72617c42de14c537c2ecb93e0 response_code=404
+2025-07-11 20:55:19,704 - openai - INFO - error_code=model_not_found error_message='The model `gpt-4` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 20:55:19,704 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: The model `gpt-4` does not exist or you do not have access to it., falling back to rule-based analysis
+2025-07-11 20:55:19,705 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:55:28,958 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 20:55:30,517 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 20:55:30,517 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-11 20:55:30,517 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 20:55:30,517 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 20:55:31,454 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_52c9cd47eecb734fd1a975c879139eb4 response_code=404
+2025-07-11 20:55:31,454 - openai - INFO - error_code=model_not_found error_message='The model `gpt-4` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 20:55:31,454 - core.ai_analyzer - WARNING - ⚠️ OpenAI API test failed: The model `gpt-4` does not exist or you do not have access to it., falling back to rule-based analysis
+2025-07-11 20:55:31,454 - main - INFO - ✅ All components initialized successfully
+2025-07-11 20:55:35,458 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 21:00:12,363 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 21:00:12,363 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-11 21:00:12,363 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 21:00:12,363 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 21:00:12,389 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-4o-mini
+2025-07-11 21:00:16,004 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=811 request_id=req_31527f7d07d65ee04095a1b7a13e16fd response_code=200
+2025-07-11 21:00:16,027 - core.ai_analyzer - INFO - ✅ Model gpt-4o-mini is available and working
+2025-07-11 21:00:16,027 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful using model: gpt-4o-mini
+2025-07-11 21:00:16,027 - main - INFO - ✅ All components initialized successfully
+2025-07-11 21:08:21,264 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 21:17:17,330 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=287 request_id=req_2e54e352cde03a3117b3f25c9d4cb954 response_code=200
+2025-07-11 21:17:40,919 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=372 request_id=req_d705a4f3e021bd1167555694a1e2edd4 response_code=200
+2025-07-11 21:17:48,018 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=1361 request_id=req_edac5eecd731b6b6f39f394585c07c0d response_code=200
+2025-07-11 21:17:55,322 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=576 request_id=req_7947730a2286db3d61d3ccb9ffaca353 response_code=200
+2025-07-11 21:18:12,967 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 21:18:12,988 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-11 21:18:12,988 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 21:18:12,994 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 21:18:13,011 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-4o-mini
+2025-07-11 21:18:15,270 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=256 request_id=req_64c4c1beaebba26efdfb7285faaffac7 response_code=200
+2025-07-11 21:18:15,284 - core.ai_analyzer - INFO - ✅ Model gpt-4o-mini is available and working
+2025-07-11 21:18:15,284 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful using model: gpt-4o-mini
+2025-07-11 21:18:15,286 - main - INFO - ✅ All components initialized successfully
+2025-07-11 21:18:15,286 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 21:18:18,317 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 21:18:18,343 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-11 21:18:18,343 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 21:18:18,343 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 21:18:18,366 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-4o-mini
+2025-07-11 21:18:19,006 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_4c5d6097095a2245f8f5e51c5676113b response_code=429
+2025-07-11 21:18:19,007 - openai - INFO - error_code=rate_limit_exceeded error_message='Rate limit reached for gpt-4o-mini in organization org-rQp2RUREK2qNMx5knDiCxIJq on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.' error_param=None error_type=requests message='OpenAI API error received' stream_error=False
+2025-07-11 21:18:19,009 - core.ai_analyzer - WARNING - ⚠️ Rate limit reached for gpt-4o-mini, trying next model
+2025-07-11 21:18:19,009 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-4o
+2025-07-11 21:18:19,780 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_dc711ce40c609136f2db88df45f17918 response_code=429
+2025-07-11 21:18:19,780 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-07-11 21:18:19,784 - core.ai_analyzer - WARNING - ⚠️ Rate limit reached for gpt-4o, trying next model
+2025-07-11 21:18:19,785 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-4-turbo
+2025-07-11 21:18:21,625 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_ab5dfd9421c2eafaa54e091c84d67d45 response_code=404
+2025-07-11 21:18:21,625 - openai - INFO - error_code=model_not_found error_message='The model `gpt-4-turbo` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 21:18:21,625 - core.ai_analyzer - INFO - ❌ Model gpt-4-turbo not available: The model `gpt-4-turbo` does not exist or you do not have access to it.
+2025-07-11 21:18:21,625 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-4
+2025-07-11 21:18:23,976 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_26880ed4834855bccd33f830095d61f5 response_code=404
+2025-07-11 21:18:23,976 - openai - INFO - error_code=model_not_found error_message='The model `gpt-4` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-07-11 21:18:23,976 - core.ai_analyzer - INFO - ❌ Model gpt-4 not available: The model `gpt-4` does not exist or you do not have access to it.
+2025-07-11 21:18:23,976 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-3.5-turbo
+2025-07-11 21:18:25,060 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=None request_id=req_be22c0060d723cf7cc1ea5d5972136d7 response_code=429
+2025-07-11 21:18:25,060 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-07-11 21:18:25,060 - core.ai_analyzer - WARNING - ⚠️ Rate limit reached for gpt-3.5-turbo, trying next model
+2025-07-11 21:18:25,064 - core.ai_analyzer - WARNING - ⚠️ No compatible OpenAI models available, using rule-based analysis
+2025-07-11 21:18:25,064 - main - INFO - ✅ All components initialized successfully
+2025-07-11 21:18:33,114 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 21:18:36,987 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 21:18:36,990 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-11 21:18:36,990 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 21:18:36,990 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 21:18:37,016 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-4o-mini
+2025-07-11 21:18:38,492 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=436 request_id=req_4e7319c83a639ca80a0d610fc2a6d221 response_code=200
+2025-07-11 21:18:38,492 - core.ai_analyzer - INFO - ✅ Model gpt-4o-mini is available and working
+2025-07-11 21:18:38,492 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful using model: gpt-4o-mini
+2025-07-11 21:18:38,492 - main - INFO - ✅ All components initialized successfully
+2025-07-11 21:19:31,170 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 21:22:03,600 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 21:22:03,619 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-11 21:22:03,619 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 21:22:03,619 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 21:22:03,643 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-4o-mini
+2025-07-11 21:22:10,768 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=430 request_id=req_16f31ec969fccd7f74f7ccfda3e56d58 response_code=200
+2025-07-11 21:22:10,776 - core.ai_analyzer - INFO - ✅ Model gpt-4o-mini is available and working
+2025-07-11 21:22:10,776 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful using model: gpt-4o-mini
+2025-07-11 21:22:10,776 - main - INFO - ✅ All components initialized successfully
+2025-07-11 21:32:02,702 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 21:32:14,871 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 21:32:14,871 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-11 21:32:14,871 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 21:32:14,887 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 21:32:14,904 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-4o-mini
+2025-07-11 21:32:16,105 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=221 request_id=req_aae76fe2b3e029248d40e1d6e0ab3d33 response_code=200
+2025-07-11 21:32:16,117 - core.ai_analyzer - INFO - ✅ Model gpt-4o-mini is available and working
+2025-07-11 21:32:16,117 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful using model: gpt-4o-mini
+2025-07-11 21:32:16,117 - main - INFO - ✅ All components initialized successfully
+2025-07-11 21:32:16,978 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-11 21:33:21,839 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-11 21:33:21,848 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-11 21:33:21,848 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-11 21:33:21,848 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-11 21:33:21,869 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-4o-mini
+2025-07-11 21:33:23,341 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=517 request_id=req_16775629dced20b0c76a0e62d363b1b0 response_code=200
+2025-07-11 21:33:23,350 - core.ai_analyzer - INFO - ✅ Model gpt-4o-mini is available and working
+2025-07-11 21:33:23,350 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful using model: gpt-4o-mini
+2025-07-11 21:33:23,350 - main - INFO - ✅ All components initialized successfully
+2025-07-11 21:36:35,975 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
+2025-07-16 13:54:34,515 - main - INFO - 🚀 Starting Neurom AI Website Analyzer...
+2025-07-16 13:54:34,531 - core.ai_analyzer - INFO - ✅ OpenAI API key found (length: 164)
+2025-07-16 13:54:34,532 - core.rate_limiter - INFO - 🚦 Rate limiter initialized: 100 requests per 3600 seconds
+2025-07-16 13:54:34,533 - core.export_manager - INFO - 📊 Export manager initialized
+2025-07-16 13:54:34,533 - core.ai_analyzer - INFO - 🔍 Testing model: gpt-4o-mini
+2025-07-16 13:54:35,672 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=314 request_id=req_bbe432e9b497ba4b41c8673999b17663 response_code=200
+2025-07-16 13:54:35,687 - core.ai_analyzer - INFO - ✅ Model gpt-4o-mini is available and working
+2025-07-16 13:54:35,687 - core.ai_analyzer - INFO - ✅ OpenAI API connection successful using model: gpt-4o-mini
+2025-07-16 13:54:35,689 - main - INFO - ✅ All components initialized successfully
+2025-07-16 13:54:53,548 - main - INFO - 🛑 Shutting down Neurom AI Website Analyzer...
